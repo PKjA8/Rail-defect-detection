@@ -111,7 +111,7 @@ rail-defect-detection/
   B.Tech in AI & Data Science, Gati Shakti Vishwavidyalaya  
 - **Asmit Sharma**  
   B.Tech in AI & Data Science, Gati Shakti Vishwavidyalaya  
-- **Vimal A**  
+- **Vimal **  
   M.Tech in Railway Engineering, Gati Shakti Vishwavidyalaya  
 - **Mentor**: Dr. Vipul Kumar Mishra  
   Associate Professor, Department of AI & DS, Gati Shakti Vishwavidyalaya
